@@ -1,1 +1,10 @@
+Installation steps:
+1. Download and install oracle virtualbox latest edition.
+   - https://www.virtualbox.org/wiki/Downloads
 
+2. Download and install Ubuntu 20.04LTS version.
+   - https://ubuntu.com/download/alternative-downloads
+   - https://www.youtube.com/watch?v=x5MhydijWmc (Reference video for installation issues and error resolution)
+
+3. Download and install Java 8.
+   - 
